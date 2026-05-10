@@ -33,7 +33,7 @@ const HeroSection = () => {
                                 <span className="absolute bottom-2.5 right-5 w-4 h-4 bg-green-500 border-2 border-white rounded-full" />
                             </div>
                             <div className="flex flex-col gap-2 sm:gap-3 items-center text-center xs:items-start">
-                                <h1>Rosari Rathanayake</h1>
+                                <h1>Rosari Lakshan Rathanayake</h1>
                                 <h5 className="text-violet font-normal">Senior Software Enginner</h5>
                                 <h6 className="text-gray-400 font-black">+94 78 636 309</h6>
                                 {/* <div className="flex items-center gap-2">
